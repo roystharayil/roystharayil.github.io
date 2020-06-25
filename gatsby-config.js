@@ -3,6 +3,7 @@ module.exports = {
     title: `Navarasam`,
     siteUrl: `https://`,
     description: `Digtial Marketing Consultancy and strategy`,
+    pathPrefix: "/consultancy",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
