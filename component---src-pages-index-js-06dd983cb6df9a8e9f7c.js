@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{RXBc:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),i=t.n(a);t("qhky"),t("Wbzz");var l=function(e){return i.a.createElement("div",{className:"site-landing"},e.children,i.a.createElement("h1",null,"Coming Soon "),i.a.createElement("h4",null,"Data-driven Digital Marketing"))};n.default=function(){return i.a.createElement(l,null)}}}]);
+//# sourceMappingURL=component---src-pages-index-js-06dd983cb6df9a8e9f7c.js.map

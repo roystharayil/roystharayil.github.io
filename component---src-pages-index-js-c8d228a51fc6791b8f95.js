@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{RXBc:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),r=t.n(a);t("qhky"),t("Wbzz");var i=function(e){return r.a.createElement("div",{className:"site-landing"},e.children,r.a.createElement("h1",null,"Coming Soon "),r.a.createElement("h3",null,"Data-driven Research-oriented Digital Marketing"))};n.default=function(){return r.a.createElement(i,null)}}}]);
+//# sourceMappingURL=component---src-pages-index-js-c8d228a51fc6791b8f95.js.map
